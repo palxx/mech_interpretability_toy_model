@@ -1,0 +1,1 @@
+This repository is the first repository where I am testing. Some output is for a simple toy model in Mechanical, interpret ability. I am just testing, what are the weights and how are the circuits and everything
